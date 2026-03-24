@@ -60,13 +60,6 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maxikbe/maxikbe/output/snake.svg" alt="Snake animation" />
-
-###
 
 <p align="left">U can find more on my website: <a href="https://www.belunekmax.me">belunekmax.me</a></p>
 
